@@ -1,0 +1,19 @@
+.mySwiper{
+    width: 99%;
+    height: 480px;
+    max-width: 1500px;
+    border-radius: 20px;
+}
+.swiper-slide>img{
+    width: 100%;
+
+    height: 100%;
+}
+.swiper-button-prev, .swiper-button-next{
+    color: black;
+   text-shadow: -2px 1px   white;
+    /* background-color: red; */
+}
+.swiper-pagination-bullet{
+   border: 0.5px solid rgb(220, 220, 220);
+}

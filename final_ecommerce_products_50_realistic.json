@@ -1,0 +1,3348 @@
+[[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "description": "Description for product 1. A practical item for everyday use.",
+    "price": 4.75,
+    "category": "Decor",
+    "image": "https://via.placeholder.com/300?text=Product+1",
+    "stock": 73,
+    "rating": 2.5,
+    "reviews": [
+      {
+        "name": "Manav",
+        "comment": "Absolutely loved it!",
+        "rating": 4.1
+      },
+      {
+        "name": "Kavya",
+        "comment": "Very disappointed.",
+        "rating": 2.7
+      },
+      {
+        "name": "Ravi",
+        "comment": "Fantastic... if you're lowering your standards.",
+        "rating": 1.6
+      },
+      {
+        "name": "Harshit",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.5
+      },
+      {
+        "name": "Naresh",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.4
+      },
+      {
+        "name": "Ronak",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 3.7
+      },
+      {
+        "name": "Vikram",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.9
+      },
+      {
+        "name": "Priya",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.6
+      },
+      {
+        "name": "Imran",
+        "comment": "Very disappointed.",
+        "rating": 2.8
+      },
+      {
+        "name": "Priya",
+        "comment": "Works just as described.",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "description": "Description for product 2. A practical item for everyday use.",
+    "price": 5.5,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+2",
+    "stock": 53,
+    "rating": 2.7,
+    "reviews": [
+      {
+        "name": "Naresh",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.6
+      },
+      {
+        "name": "Naresh",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.2
+      },
+      {
+        "name": "Aditi",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.3
+      },
+      {
+        "name": "Rohit",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.4
+      },
+      {
+        "name": "Leela",
+        "comment": "Would buy again.",
+        "rating": 3.9
+      },
+      {
+        "name": "Vikram",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 1.8
+      },
+      {
+        "name": "Trisha",
+        "comment": "Works just as described.",
+        "rating": 4.6
+      },
+      {
+        "name": "Vikram",
+        "comment": "I want my money back.",
+        "rating": 1.7
+      },
+      {
+        "name": "Daisy",
+        "comment": "Would buy again.",
+        "rating": 2.4
+      },
+      {
+        "name": "Milan",
+        "comment": "So cute and functional!",
+        "rating": 2.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "description": "Description for product 3. A practical item for everyday use.",
+    "price": 6.25,
+    "category": "Decor",
+    "image": "https://via.placeholder.com/300?text=Product+3",
+    "stock": 51,
+    "rating": 2.6,
+    "reviews": [
+      {
+        "name": "Bhavna",
+        "comment": "Works just as described.",
+        "rating": 4.8
+      },
+      {
+        "name": "Harshit",
+        "comment": "Not worth it. Avoid.",
+        "rating": 1.6
+      },
+      {
+        "name": "Manav",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.3
+      },
+      {
+        "name": "Rohit",
+        "comment": "Too small and flimsy.",
+        "rating": 1.7
+      },
+      {
+        "name": "Fatima",
+        "comment": "Works just as described.",
+        "rating": 4.9
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Would buy again.",
+        "rating": 2.6
+      },
+      {
+        "name": "Ronak",
+        "comment": "If frustration had a product form, this would be it.",
+        "rating": 1.9
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Came with missing parts.",
+        "rating": 2.2
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Not worth it. Avoid.",
+        "rating": 3.3
+      },
+      {
+        "name": "Aditi",
+        "comment": "Great quality and fast delivery.",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "description": "Description for product 4. A practical item for everyday use.",
+    "price": 7.0,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300?text=Product+4",
+    "stock": 76,
+    "rating": 2.8,
+    "reviews": [
+      {
+        "name": "Priya",
+        "comment": "My favorite purchase this month!",
+        "rating": 3.7
+      },
+      {
+        "name": "Kriti",
+        "comment": "So cute and functional!",
+        "rating": 4.8
+      },
+      {
+        "name": "Vikram",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.0
+      },
+      {
+        "name": "Trisha",
+        "comment": "Would buy again.",
+        "rating": 4.1
+      },
+      {
+        "name": "Milan",
+        "comment": "Fantastic... if you're lowering your standards.",
+        "rating": 1.7
+      },
+      {
+        "name": "Saurav",
+        "comment": "Would buy again.",
+        "rating": 3.5
+      },
+      {
+        "name": "Naresh",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.8
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 2.5
+      },
+      {
+        "name": "Sneha",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.2
+      },
+      {
+        "name": "Aditi",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "description": "Description for product 5. A practical item for everyday use.",
+    "price": 7.75,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+5",
+    "stock": 22,
+    "rating": 1.8,
+    "reviews": [
+      {
+        "name": "Kavya",
+        "comment": "Love how it broke just by looking at it.",
+        "rating": 1.3
+      },
+      {
+        "name": "Fatima",
+        "comment": "Because who doesn\u2019t want daily regret?",
+        "rating": 1.7
+      },
+      {
+        "name": "Trisha",
+        "comment": "Absolutely loved it!",
+        "rating": 2.8
+      },
+      {
+        "name": "Vikram",
+        "comment": "So cute and functional!",
+        "rating": 3.5
+      },
+      {
+        "name": "Manav",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.2
+      },
+      {
+        "name": "Trisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.4
+      },
+      {
+        "name": "Daisy",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.9
+      },
+      {
+        "name": "Aditi",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.9
+      },
+      {
+        "name": "Manav",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.1
+      },
+      {
+        "name": "Saurav",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "description": "Description for product 6. A practical item for everyday use.",
+    "price": 8.5,
+    "category": "Personal Care",
+    "image": "https://via.placeholder.com/300?text=Product+6",
+    "stock": 47,
+    "rating": 1.9,
+    "reviews": [
+      {
+        "name": "Bhavna",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.7
+      },
+      {
+        "name": "Ronak",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.6
+      },
+      {
+        "name": "Milan",
+        "comment": "Broke on first use.",
+        "rating": 1.7
+      },
+      {
+        "name": "Manav",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.1
+      },
+      {
+        "name": "Aditi",
+        "comment": "Total waste of money.",
+        "rating": 2.2
+      },
+      {
+        "name": "Harshit",
+        "comment": "So cute and functional!",
+        "rating": 3.8
+      },
+      {
+        "name": "Sana",
+        "comment": "Would buy again.",
+        "rating": 3.3
+      },
+      {
+        "name": "Kavya",
+        "comment": "Broke on first use.",
+        "rating": 3.4
+      },
+      {
+        "name": "Aditi",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.2
+      },
+      {
+        "name": "Sneha",
+        "comment": "Looks nothing like the picture.",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "description": "Description for product 7. A practical item for everyday use.",
+    "price": 9.25,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+7",
+    "stock": 93,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "name": "Ravi",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.4
+      },
+      {
+        "name": "Sana",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.6
+      },
+      {
+        "name": "Nisha",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.9
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Absolutely loved it!",
+        "rating": 3.5
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Absolutely loved it!",
+        "rating": 4.0
+      },
+      {
+        "name": "Harshit",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 2.2
+      },
+      {
+        "name": "Naresh",
+        "comment": "Works just as described.",
+        "rating": 3.7
+      },
+      {
+        "name": "Leela",
+        "comment": "Came with missing parts.",
+        "rating": 1.6
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 3.4
+      },
+      {
+        "name": "Priya",
+        "comment": "If frustration had a product form, this would be it.",
+        "rating": 1.4
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "description": "Description for product 8. A practical item for everyday use.",
+    "price": 10.0,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+8",
+    "stock": 27,
+    "rating": 2.9,
+    "reviews": [
+      {
+        "name": "Sana",
+        "comment": "Too small and flimsy.",
+        "rating": 2.4
+      },
+      {
+        "name": "Trisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.6
+      },
+      {
+        "name": "Harshit",
+        "comment": "Total waste of money.",
+        "rating": 1.1
+      },
+      {
+        "name": "Saurav",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 3.7
+      },
+      {
+        "name": "Kavya",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.6
+      },
+      {
+        "name": "Harshit",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.6
+      },
+      {
+        "name": "Aditi",
+        "comment": "If frustration had a product form, this would be it.",
+        "rating": 1.4
+      },
+      {
+        "name": "Manav",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.5
+      },
+      {
+        "name": "Milan",
+        "comment": "Very disappointed.",
+        "rating": 2.1
+      },
+      {
+        "name": "Trisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "description": "Description for product 9. A practical item for everyday use.",
+    "price": 10.75,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300?text=Product+9",
+    "stock": 119,
+    "rating": 2.5,
+    "reviews": [
+      {
+        "name": "Vikram",
+        "comment": "So cute and functional!",
+        "rating": 2.3
+      },
+      {
+        "name": "Ravi",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.6
+      },
+      {
+        "name": "Kriti",
+        "comment": "Looks nothing like the picture.",
+        "rating": 3.2
+      },
+      {
+        "name": "Naresh",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.2
+      },
+      {
+        "name": "Daisy",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.4
+      },
+      {
+        "name": "Trisha",
+        "comment": "Absolutely loved it!",
+        "rating": 4.6
+      },
+      {
+        "name": "Kriti",
+        "comment": "My favorite purchase this month!",
+        "rating": 2.7
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Broke on first use.",
+        "rating": 2.5
+      },
+      {
+        "name": "Rohit",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.9
+      },
+      {
+        "name": "Aditi",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "description": "Description for product 10. A practical item for everyday use.",
+    "price": 4.0,
+    "category": "Kitchen",
+    "image": "https://via.placeholder.com/300?text=Product+10",
+    "stock": 52,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "name": "Saurav",
+        "comment": "Works just as described.",
+        "rating": 4.9
+      },
+      {
+        "name": "Manav",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.1
+      },
+      {
+        "name": "Ronak",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.0
+      },
+      {
+        "name": "Daisy",
+        "comment": "Would buy again.",
+        "rating": 3.2
+      },
+      {
+        "name": "Trisha",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.6
+      },
+      {
+        "name": "Sneha",
+        "comment": "Total waste of money.",
+        "rating": 3.0
+      },
+      {
+        "name": "Naresh",
+        "comment": "I want my money back.",
+        "rating": 2.5
+      },
+      {
+        "name": "Trisha",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.0
+      },
+      {
+        "name": "Daisy",
+        "comment": "Would buy again.",
+        "rating": 4.4
+      },
+      {
+        "name": "Ravi",
+        "comment": "Came with missing parts.",
+        "rating": 2.1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "description": "Description for product 11. A practical item for everyday use.",
+    "price": 4.75,
+    "category": "Personal Care",
+    "image": "https://via.placeholder.com/300?text=Product+11",
+    "stock": 113,
+    "rating": 1.6,
+    "reviews": [
+      {
+        "name": "Manav",
+        "comment": "Too small and flimsy.",
+        "rating": 1.2
+      },
+      {
+        "name": "Manav",
+        "comment": "Not worth it. Avoid.",
+        "rating": 1.2
+      },
+      {
+        "name": "Daisy",
+        "comment": "Recommended for enemies only.",
+        "rating": 1.2
+      },
+      {
+        "name": "Daisy",
+        "comment": "Broke on first use.",
+        "rating": 2.7
+      },
+      {
+        "name": "Daisy",
+        "comment": "So cute and functional!",
+        "rating": 5.0
+      },
+      {
+        "name": "Naresh",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.0
+      },
+      {
+        "name": "Ronak",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 1.2
+      },
+      {
+        "name": "Sneha",
+        "comment": "My favorite purchase this month!",
+        "rating": 2.1
+      },
+      {
+        "name": "Naresh",
+        "comment": "Broke on first use.",
+        "rating": 2.7
+      },
+      {
+        "name": "Leela",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.6
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "description": "Description for product 12. A practical item for everyday use.",
+    "price": 5.5,
+    "category": "Decor",
+    "image": "https://via.placeholder.com/300?text=Product+12",
+    "stock": 139,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "name": "Fatima",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 2.7
+      },
+      {
+        "name": "Leela",
+        "comment": "My favorite purchase this month!",
+        "rating": 3.8
+      },
+      {
+        "name": "Naresh",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.1
+      },
+      {
+        "name": "Ravi",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.7
+      },
+      {
+        "name": "Sana",
+        "comment": "Works just as described.",
+        "rating": 4.3
+      },
+      {
+        "name": "Harshit",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.2
+      },
+      {
+        "name": "Sneha",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.6
+      },
+      {
+        "name": "Kavya",
+        "comment": "Fantastic... if you're lowering your standards.",
+        "rating": 1.9
+      },
+      {
+        "name": "Saurav",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 1.1
+      },
+      {
+        "name": "Rohit",
+        "comment": "Works just as described.",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "description": "Description for product 13. A practical item for everyday use.",
+    "price": 6.25,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300?text=Product+13",
+    "stock": 44,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "name": "Aditi",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.6
+      },
+      {
+        "name": "Priya",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.3
+      },
+      {
+        "name": "Ravi",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.1
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.3
+      },
+      {
+        "name": "Ronak",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.8
+      },
+      {
+        "name": "Saurav",
+        "comment": "Too small and flimsy.",
+        "rating": 2.8
+      },
+      {
+        "name": "Trisha",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.1
+      },
+      {
+        "name": "Sneha",
+        "comment": "So cute and functional!",
+        "rating": 4.5
+      },
+      {
+        "name": "Manav",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.9
+      },
+      {
+        "name": "Fatima",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "description": "Description for product 14. A practical item for everyday use.",
+    "price": 7.0,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+14",
+    "stock": 80,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "name": "Aditya",
+        "comment": "Would buy again.",
+        "rating": 4.6
+      },
+      {
+        "name": "Trisha",
+        "comment": "Too small and flimsy.",
+        "rating": 1.1
+      },
+      {
+        "name": "Aditi",
+        "comment": "Broke on first use.",
+        "rating": 3.1
+      },
+      {
+        "name": "Ronak",
+        "comment": "My favorite purchase this month!",
+        "rating": 2.7
+      },
+      {
+        "name": "Saurav",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.1
+      },
+      {
+        "name": "Rohit",
+        "comment": "Broke on first use.",
+        "rating": 2.1
+      },
+      {
+        "name": "Leela",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.6
+      },
+      {
+        "name": "Manav",
+        "comment": "Came with missing parts.",
+        "rating": 1.4
+      },
+      {
+        "name": "Rohit",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.6
+      },
+      {
+        "name": "Daisy",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "description": "Description for product 15. A practical item for everyday use.",
+    "price": 7.75,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+15",
+    "stock": 61,
+    "rating": 2.9,
+    "reviews": [
+      {
+        "name": "Kriti",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.1
+      },
+      {
+        "name": "Daisy",
+        "comment": "Works just as described.",
+        "rating": 4.7
+      },
+      {
+        "name": "Manav",
+        "comment": "Would buy again.",
+        "rating": 4.5
+      },
+      {
+        "name": "Kriti",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.5
+      },
+      {
+        "name": "Daisy",
+        "comment": "Works just as described.",
+        "rating": 4.2
+      },
+      {
+        "name": "Harshit",
+        "comment": "Absolutely loved it!",
+        "rating": 3.5
+      },
+      {
+        "name": "Aditya",
+        "comment": "Total waste of money.",
+        "rating": 2.2
+      },
+      {
+        "name": "Nisha",
+        "comment": "Works just as described.",
+        "rating": 3.9
+      },
+      {
+        "name": "Nisha",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.1
+      },
+      {
+        "name": "Daisy",
+        "comment": "So cute and functional!",
+        "rating": 2.3
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "description": "Description for product 16. A practical item for everyday use.",
+    "price": 8.5,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+16",
+    "stock": 150,
+    "rating": 1.8,
+    "reviews": [
+      {
+        "name": "Daisy",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.6
+      },
+      {
+        "name": "Rohit",
+        "comment": "Absolutely loved it!",
+        "rating": 2.0
+      },
+      {
+        "name": "Kavya",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.4
+      },
+      {
+        "name": "Harshit",
+        "comment": "Would buy again.",
+        "rating": 4.7
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.9
+      },
+      {
+        "name": "Priya",
+        "comment": "Works just as described.",
+        "rating": 2.0
+      },
+      {
+        "name": "Milan",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.2
+      },
+      {
+        "name": "Manav",
+        "comment": "Fantastic... if you're lowering your standards.",
+        "rating": 1.4
+      },
+      {
+        "name": "Harshit",
+        "comment": "Not worth it. Avoid.",
+        "rating": 1.2
+      },
+      {
+        "name": "Kriti",
+        "comment": "Would buy again.",
+        "rating": 2.3
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "description": "Description for product 17. A practical item for everyday use.",
+    "price": 9.25,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+17",
+    "stock": 24,
+    "rating": 2.5,
+    "reviews": [
+      {
+        "name": "Daisy",
+        "comment": "Not worth it. Avoid.",
+        "rating": 1.5
+      },
+      {
+        "name": "Vikram",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.7
+      },
+      {
+        "name": "Vikram",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.0
+      },
+      {
+        "name": "Sneha",
+        "comment": "Absolutely loved it!",
+        "rating": 4.0
+      },
+      {
+        "name": "Fatima",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.0
+      },
+      {
+        "name": "Naresh",
+        "comment": "I want my money back.",
+        "rating": 1.4
+      },
+      {
+        "name": "Sana",
+        "comment": "Sure, if you're into disappointment.",
+        "rating": 1.5
+      },
+      {
+        "name": "Kavya",
+        "comment": "Absolutely loved it!",
+        "rating": 3.5
+      },
+      {
+        "name": "Saurav",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.4
+      },
+      {
+        "name": "Naresh",
+        "comment": "Would buy again.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "description": "Description for product 18. A practical item for everyday use.",
+    "price": 10.0,
+    "category": "Decor",
+    "image": "https://via.placeholder.com/300?text=Product+18",
+    "stock": 124,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "name": "Aditya",
+        "comment": "Total waste of money.",
+        "rating": 1.5
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Came with missing parts.",
+        "rating": 2.9
+      },
+      {
+        "name": "Naresh",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.5
+      },
+      {
+        "name": "Trisha",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.7
+      },
+      {
+        "name": "Sneha",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.3
+      },
+      {
+        "name": "Saurav",
+        "comment": "Perfect for what I needed.",
+        "rating": 5.0
+      },
+      {
+        "name": "Fatima",
+        "comment": "My favorite purchase this month!",
+        "rating": 3.9
+      },
+      {
+        "name": "Trisha",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.7
+      },
+      {
+        "name": "Aditya",
+        "comment": "Would buy again.",
+        "rating": 4.4
+      },
+      {
+        "name": "Naresh",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "description": "Description for product 19. A practical item for everyday use.",
+    "price": 10.75,
+    "category": "Personal Care",
+    "image": "https://via.placeholder.com/300?text=Product+19",
+    "stock": 87,
+    "rating": 3.7,
+    "reviews": [
+      {
+        "name": "Leela",
+        "comment": "I want my money back.",
+        "rating": 3.0
+      },
+      {
+        "name": "Leela",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.9
+      },
+      {
+        "name": "Aditya",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.3
+      },
+      {
+        "name": "Vikram",
+        "comment": "If frustration had a product form, this would be it.",
+        "rating": 1.6
+      },
+      {
+        "name": "Rohit",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.1
+      },
+      {
+        "name": "Ravi",
+        "comment": "Total waste of money.",
+        "rating": 2.2
+      },
+      {
+        "name": "Ronak",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 3.3
+      },
+      {
+        "name": "Nisha",
+        "comment": "Recommended for enemies only.",
+        "rating": 1.2
+      },
+      {
+        "name": "Ravi",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.9
+      },
+      {
+        "name": "Nisha",
+        "comment": "Came with missing parts.",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "description": "Description for product 20. A practical item for everyday use.",
+    "price": 4.0,
+    "category": "Kitchen",
+    "image": "https://via.placeholder.com/300?text=Product+20",
+    "stock": 56,
+    "rating": 2.5,
+    "reviews": [
+      {
+        "name": "Nisha",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.0
+      },
+      {
+        "name": "Aditi",
+        "comment": "Very disappointed.",
+        "rating": 3.0
+      },
+      {
+        "name": "Aditya",
+        "comment": "I want my money back.",
+        "rating": 1.9
+      },
+      {
+        "name": "Kavya",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.1
+      },
+      {
+        "name": "Aditya",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.6
+      },
+      {
+        "name": "Sneha",
+        "comment": "Absolutely loved it!",
+        "rating": 4.6
+      },
+      {
+        "name": "Nisha",
+        "comment": "So cute and functional!",
+        "rating": 3.7
+      },
+      {
+        "name": "Aditya",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.5
+      },
+      {
+        "name": "Aditya",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.0
+      },
+      {
+        "name": "Leela",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.2
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "description": "Description for product 21. A practical item for everyday use.",
+    "price": 4.75,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300?text=Product+21",
+    "stock": 126,
+    "rating": 2.3,
+    "reviews": [
+      {
+        "name": "Bhavna",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.8
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Very disappointed.",
+        "rating": 2.9
+      },
+      {
+        "name": "Naresh",
+        "comment": "Would buy again.",
+        "rating": 4.8
+      },
+      {
+        "name": "Sneha",
+        "comment": "Would buy again.",
+        "rating": 3.5
+      },
+      {
+        "name": "Ronak",
+        "comment": "Because who doesn\u2019t want daily regret?",
+        "rating": 1.8
+      },
+      {
+        "name": "Ronak",
+        "comment": "Broke on first use.",
+        "rating": 1.1
+      },
+      {
+        "name": "Kavya",
+        "comment": "Would buy again.",
+        "rating": 3.9
+      },
+      {
+        "name": "Trisha",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.3
+      },
+      {
+        "name": "Ravi",
+        "comment": "So cute and functional!",
+        "rating": 4.1
+      },
+      {
+        "name": "Trisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.4
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "description": "Description for product 22. A practical item for everyday use.",
+    "price": 5.5,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300?text=Product+22",
+    "stock": 39,
+    "rating": 2.8,
+    "reviews": [
+      {
+        "name": "Harshit",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.6
+      },
+      {
+        "name": "Ravi",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.5
+      },
+      {
+        "name": "Fatima",
+        "comment": "Works just as described.",
+        "rating": 4.0
+      },
+      {
+        "name": "Daisy",
+        "comment": "Works just as described.",
+        "rating": 4.2
+      },
+      {
+        "name": "Leela",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.6
+      },
+      {
+        "name": "Milan",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.0
+      },
+      {
+        "name": "Trisha",
+        "comment": "Love how it broke just by looking at it.",
+        "rating": 1.2
+      },
+      {
+        "name": "Trisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.3
+      },
+      {
+        "name": "Naresh",
+        "comment": "Absolutely loved it!",
+        "rating": 5.0
+      },
+      {
+        "name": "Sana",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.8
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "description": "Description for product 23. A practical item for everyday use.",
+    "price": 6.25,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+23",
+    "stock": 38,
+    "rating": 3.9,
+    "reviews": [
+      {
+        "name": "Sneha",
+        "comment": "Came with missing parts.",
+        "rating": 1.2
+      },
+      {
+        "name": "Vikram",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.3
+      },
+      {
+        "name": "Trisha",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.4
+      },
+      {
+        "name": "Naresh",
+        "comment": "So cute and functional!",
+        "rating": 3.9
+      },
+      {
+        "name": "Aditi",
+        "comment": "Works just as described.",
+        "rating": 3.6
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Works just as described.",
+        "rating": 4.1
+      },
+      {
+        "name": "Rohit",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.1
+      },
+      {
+        "name": "Sana",
+        "comment": "Would buy again.",
+        "rating": 4.8
+      },
+      {
+        "name": "Fatima",
+        "comment": "Love how it broke just by looking at it.",
+        "rating": 1.6
+      },
+      {
+        "name": "Trisha",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.4
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "description": "Description for product 24. A practical item for everyday use.",
+    "price": 7.0,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+24",
+    "stock": 34,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "name": "Imran",
+        "comment": "Total waste of money.",
+        "rating": 3.1
+      },
+      {
+        "name": "Trisha",
+        "comment": "Would buy again.",
+        "rating": 3.4
+      },
+      {
+        "name": "Priya",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.6
+      },
+      {
+        "name": "Trisha",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.5
+      },
+      {
+        "name": "Aditi",
+        "comment": "Total waste of money.",
+        "rating": 1.1
+      },
+      {
+        "name": "Sana",
+        "comment": "Came with missing parts.",
+        "rating": 3.0
+      },
+      {
+        "name": "Trisha",
+        "comment": "Broke on first use.",
+        "rating": 2.3
+      },
+      {
+        "name": "Priya",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.2
+      },
+      {
+        "name": "Sana",
+        "comment": "Broke on first use.",
+        "rating": 1.3
+      },
+      {
+        "name": "Saurav",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "description": "Description for product 25. A practical item for everyday use.",
+    "price": 7.75,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+25",
+    "stock": 63,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "name": "Ronak",
+        "comment": "Very disappointed.",
+        "rating": 1.3
+      },
+      {
+        "name": "Kriti",
+        "comment": "Too small and flimsy.",
+        "rating": 1.2
+      },
+      {
+        "name": "Ravi",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.7
+      },
+      {
+        "name": "Saurav",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.1
+      },
+      {
+        "name": "Nisha",
+        "comment": "If frustration had a product form, this would be it.",
+        "rating": 1.2
+      },
+      {
+        "name": "Trisha",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.2
+      },
+      {
+        "name": "Daisy",
+        "comment": "Works just as described.",
+        "rating": 3.8
+      },
+      {
+        "name": "Nisha",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.7
+      },
+      {
+        "name": "Manav",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.8
+      },
+      {
+        "name": "Sneha",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.4
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "description": "Description for product 26. A practical item for everyday use.",
+    "price": 8.5,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300?text=Product+26",
+    "stock": 148,
+    "rating": 2.1,
+    "reviews": [
+      {
+        "name": "Saurav",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.4
+      },
+      {
+        "name": "Priya",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.6
+      },
+      {
+        "name": "Saurav",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.8
+      },
+      {
+        "name": "Aditya",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.2
+      },
+      {
+        "name": "Sneha",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.1
+      },
+      {
+        "name": "Trisha",
+        "comment": "Too small and flimsy.",
+        "rating": 2.6
+      },
+      {
+        "name": "Milan",
+        "comment": "Love how it broke just by looking at it.",
+        "rating": 1.5
+      },
+      {
+        "name": "Ronak",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.6
+      },
+      {
+        "name": "Daisy",
+        "comment": "Absolutely loved it!",
+        "rating": 4.8
+      },
+      {
+        "name": "Nisha",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "description": "Description for product 27. A practical item for everyday use.",
+    "price": 9.25,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300?text=Product+27",
+    "stock": 108,
+    "rating": 2.1,
+    "reviews": [
+      {
+        "name": "Manav",
+        "comment": "So cute and functional!",
+        "rating": 4.4
+      },
+      {
+        "name": "Trisha",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.3
+      },
+      {
+        "name": "Ravi",
+        "comment": "Absolutely loved it!",
+        "rating": 3.1
+      },
+      {
+        "name": "Nisha",
+        "comment": "Absolutely loved it!",
+        "rating": 3.2
+      },
+      {
+        "name": "Vikram",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 3.9
+      },
+      {
+        "name": "Harshit",
+        "comment": "Absolutely loved it!",
+        "rating": 3.4
+      },
+      {
+        "name": "Aditi",
+        "comment": "Absolutely loved it!",
+        "rating": 2.3
+      },
+      {
+        "name": "Kriti",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.4
+      },
+      {
+        "name": "Priya",
+        "comment": "Broke on first use.",
+        "rating": 2.3
+      },
+      {
+        "name": "Aditya",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.3
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "description": "Description for product 28. A practical item for everyday use.",
+    "price": 10.0,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+28",
+    "stock": 144,
+    "rating": 3.2,
+    "reviews": [
+      {
+        "name": "Daisy",
+        "comment": "Great quality and fast delivery.",
+        "rating": 3.2
+      },
+      {
+        "name": "Aditya",
+        "comment": "Would buy again.",
+        "rating": 4.2
+      },
+      {
+        "name": "Aditi",
+        "comment": "Great for reminding me why I shop in person.",
+        "rating": 1.7
+      },
+      {
+        "name": "Rohit",
+        "comment": "Perfect for what I needed.",
+        "rating": 2.3
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.5
+      },
+      {
+        "name": "Priya",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.8
+      },
+      {
+        "name": "Imran",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.5
+      },
+      {
+        "name": "Sneha",
+        "comment": "Too small and flimsy.",
+        "rating": 2.3
+      },
+      {
+        "name": "Leela",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.7
+      },
+      {
+        "name": "Kriti",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "description": "Description for product 29. A practical item for everyday use.",
+    "price": 10.75,
+    "category": "Decor",
+    "image": "https://via.placeholder.com/300?text=Product+29",
+    "stock": 75,
+    "rating": 1.9,
+    "reviews": [
+      {
+        "name": "Sana",
+        "comment": "I want my money back.",
+        "rating": 3.0
+      },
+      {
+        "name": "Trisha",
+        "comment": "So cute and functional!",
+        "rating": 4.9
+      },
+      {
+        "name": "Ronak",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.0
+      },
+      {
+        "name": "Ravi",
+        "comment": "Came with missing parts.",
+        "rating": 2.0
+      },
+      {
+        "name": "Milan",
+        "comment": "Because who doesn\u2019t want daily regret?",
+        "rating": 1.5
+      },
+      {
+        "name": "Naresh",
+        "comment": "Works just as described.",
+        "rating": 4.4
+      },
+      {
+        "name": "Trisha",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.6
+      },
+      {
+        "name": "Kavya",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.2
+      },
+      {
+        "name": "Manav",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 1.7
+      },
+      {
+        "name": "Saurav",
+        "comment": "Works just as described.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "description": "Description for product 30. A practical item for everyday use.",
+    "price": 4.0,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+30",
+    "stock": 36,
+    "rating": 2.3,
+    "reviews": [
+      {
+        "name": "Kavya",
+        "comment": "Came with missing parts.",
+        "rating": 3.2
+      },
+      {
+        "name": "Harshit",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.4
+      },
+      {
+        "name": "Vikram",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.2
+      },
+      {
+        "name": "Daisy",
+        "comment": "Absolutely loved it!",
+        "rating": 2.4
+      },
+      {
+        "name": "Aditi",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.1
+      },
+      {
+        "name": "Imran",
+        "comment": "I want my money back.",
+        "rating": 2.8
+      },
+      {
+        "name": "Ronak",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.8
+      },
+      {
+        "name": "Manav",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.1
+      },
+      {
+        "name": "Ronak",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.8
+      },
+      {
+        "name": "Ravi",
+        "comment": "My favorite purchase this month!",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "description": "Description for product 31. A practical item for everyday use.",
+    "price": 4.75,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300?text=Product+31",
+    "stock": 36,
+    "rating": 2.5,
+    "reviews": [
+      {
+        "name": "Naresh",
+        "comment": "Perfect for what I needed.",
+        "rating": 2.0
+      },
+      {
+        "name": "Trisha",
+        "comment": "Works just as described.",
+        "rating": 2.2
+      },
+      {
+        "name": "Ravi",
+        "comment": "Not worth it. Avoid.",
+        "rating": 3.0
+      },
+      {
+        "name": "Nisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.9
+      },
+      {
+        "name": "Aditya",
+        "comment": "Works just as described.",
+        "rating": 3.8
+      },
+      {
+        "name": "Kriti",
+        "comment": "Because who doesn\u2019t want daily regret?",
+        "rating": 1.7
+      },
+      {
+        "name": "Rohit",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.8
+      },
+      {
+        "name": "Kriti",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.3
+      },
+      {
+        "name": "Sana",
+        "comment": "Works just as described.",
+        "rating": 4.2
+      },
+      {
+        "name": "Saurav",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "description": "Description for product 32. A practical item for everyday use.",
+    "price": 5.5,
+    "category": "Personal Care",
+    "image": "https://via.placeholder.com/300?text=Product+32",
+    "stock": 106,
+    "rating": 3.3,
+    "reviews": [
+      {
+        "name": "Kavya",
+        "comment": "Absolutely loved it!",
+        "rating": 4.8
+      },
+      {
+        "name": "Leela",
+        "comment": "So cute and functional!",
+        "rating": 3.0
+      },
+      {
+        "name": "Aditya",
+        "comment": "Love how it broke just by looking at it.",
+        "rating": 1.3
+      },
+      {
+        "name": "Harshit",
+        "comment": "Absolutely loved it!",
+        "rating": 3.2
+      },
+      {
+        "name": "Priya",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.4
+      },
+      {
+        "name": "Vikram",
+        "comment": "Absolutely loved it!",
+        "rating": 4.7
+      },
+      {
+        "name": "Nisha",
+        "comment": "Absolutely loved it!",
+        "rating": 4.7
+      },
+      {
+        "name": "Vikram",
+        "comment": "Works just as described.",
+        "rating": 4.7
+      },
+      {
+        "name": "Sneha",
+        "comment": "Too small and flimsy.",
+        "rating": 2.6
+      },
+      {
+        "name": "Kavya",
+        "comment": "Oh wow, it *barely* fell apart immediately.",
+        "rating": 1.6
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "description": "Description for product 33. A practical item for everyday use.",
+    "price": 6.25,
+    "category": "Personal Care",
+    "image": "https://via.placeholder.com/300?text=Product+33",
+    "stock": 106,
+    "rating": 3.8,
+    "reviews": [
+      {
+        "name": "Nisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.7
+      },
+      {
+        "name": "Ravi",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.7
+      },
+      {
+        "name": "Ronak",
+        "comment": "So cute and functional!",
+        "rating": 2.7
+      },
+      {
+        "name": "Sana",
+        "comment": "Absolutely loved it!",
+        "rating": 3.0
+      },
+      {
+        "name": "Milan",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.3
+      },
+      {
+        "name": "Vikram",
+        "comment": "Recommended for enemies only.",
+        "rating": 1.6
+      },
+      {
+        "name": "Rohit",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.1
+      },
+      {
+        "name": "Daisy",
+        "comment": "Very disappointed.",
+        "rating": 2.3
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Absolutely loved it!",
+        "rating": 3.8
+      },
+      {
+        "name": "Vikram",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "description": "Description for product 34. A practical item for everyday use.",
+    "price": 7.0,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300?text=Product+34",
+    "stock": 95,
+    "rating": 1.9,
+    "reviews": [
+      {
+        "name": "Bhavna",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.0
+      },
+      {
+        "name": "Fatima",
+        "comment": "Absolutely loved it!",
+        "rating": 2.9
+      },
+      {
+        "name": "Daisy",
+        "comment": "So cute and functional!",
+        "rating": 4.1
+      },
+      {
+        "name": "Trisha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.9
+      },
+      {
+        "name": "Sneha",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.0
+      },
+      {
+        "name": "Harshit",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.9
+      },
+      {
+        "name": "Rohit",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 3.3
+      },
+      {
+        "name": "Sana",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.6
+      },
+      {
+        "name": "Priya",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.8
+      },
+      {
+        "name": "Sneha",
+        "comment": "I want my money back.",
+        "rating": 2.2
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "description": "Description for product 35. A practical item for everyday use.",
+    "price": 7.75,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300?text=Product+35",
+    "stock": 97,
+    "rating": 2.3,
+    "reviews": [
+      {
+        "name": "Rohit",
+        "comment": "Total waste of money.",
+        "rating": 2.9
+      },
+      {
+        "name": "Bhavna",
+        "comment": "If frustration had a product form, this would be it.",
+        "rating": 1.6
+      },
+      {
+        "name": "Naresh",
+        "comment": "Not worth it. Avoid.",
+        "rating": 1.5
+      },
+      {
+        "name": "Imran",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 3.4
+      },
+      {
+        "name": "Rohit",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.8
+      },
+      {
+        "name": "Rohit",
+        "comment": "Broke on first use.",
+        "rating": 3.3
+      },
+      {
+        "name": "Aditi",
+        "comment": "Absolutely loved it!",
+        "rating": 3.9
+      },
+      {
+        "name": "Aditya",
+        "comment": "Broke on first use.",
+        "rating": 1.5
+      },
+      {
+        "name": "Sneha",
+        "comment": "Absolutely loved it!",
+        "rating": 3.7
+      },
+      {
+        "name": "Aditya",
+        "comment": "Would buy again.",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "description": "Description for product 36. A practical item for everyday use.",
+    "price": 8.5,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+36",
+    "stock": 115,
+    "rating": 3.7,
+    "reviews": [
+      {
+        "name": "Milan",
+        "comment": "Very disappointed.",
+        "rating": 1.6
+      },
+      {
+        "name": "Priya",
+        "comment": "Very disappointed.",
+        "rating": 2.8
+      },
+      {
+        "name": "Daisy",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.7
+      },
+      {
+        "name": "Leela",
+        "comment": "Absolutely loved it!",
+        "rating": 4.5
+      },
+      {
+        "name": "Sana",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.4
+      },
+      {
+        "name": "Saurav",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.5
+      },
+      {
+        "name": "Saurav",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.7
+      },
+      {
+        "name": "Saurav",
+        "comment": "Great quality and fast delivery.",
+        "rating": 5.0
+      },
+      {
+        "name": "Fatima",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.3
+      },
+      {
+        "name": "Sneha",
+        "comment": "Came with missing parts.",
+        "rating": 2.8
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "description": "Description for product 37. A practical item for everyday use.",
+    "price": 9.25,
+    "category": "Decor",
+    "image": "https://via.placeholder.com/300?text=Product+37",
+    "stock": 109,
+    "rating": 1.7,
+    "reviews": [
+      {
+        "name": "Bhavna",
+        "comment": "Too small and flimsy.",
+        "rating": 2.4
+      },
+      {
+        "name": "Fatima",
+        "comment": "Works just as described.",
+        "rating": 3.0
+      },
+      {
+        "name": "Trisha",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.0
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Would buy again.",
+        "rating": 3.6
+      },
+      {
+        "name": "Imran",
+        "comment": "Came with missing parts.",
+        "rating": 2.2
+      },
+      {
+        "name": "Priya",
+        "comment": "Broke on first use.",
+        "rating": 3.0
+      },
+      {
+        "name": "Naresh",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 2.5
+      },
+      {
+        "name": "Sneha",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.7
+      },
+      {
+        "name": "Saurav",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.2
+      },
+      {
+        "name": "Aditya",
+        "comment": "I want my money back.",
+        "rating": 1.4
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "description": "Description for product 38. A practical item for everyday use.",
+    "price": 10.0,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300?text=Product+38",
+    "stock": 92,
+    "rating": 2.8,
+    "reviews": [
+      {
+        "name": "Priya",
+        "comment": "Total waste of money.",
+        "rating": 2.3
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Absolutely loved it!",
+        "rating": 3.5
+      },
+      {
+        "name": "Saurav",
+        "comment": "Recommended for enemies only.",
+        "rating": 1.3
+      },
+      {
+        "name": "Fatima",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 1.9
+      },
+      {
+        "name": "Sneha",
+        "comment": "Great quality and fast delivery.",
+        "rating": 3.6
+      },
+      {
+        "name": "Milan",
+        "comment": "Absolutely loved it!",
+        "rating": 3.5
+      },
+      {
+        "name": "Fatima",
+        "comment": "Works just as described.",
+        "rating": 3.9
+      },
+      {
+        "name": "Kavya",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.0
+      },
+      {
+        "name": "Leela",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.8
+      },
+      {
+        "name": "Manav",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.2
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "description": "Description for product 39. A practical item for everyday use.",
+    "price": 10.75,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+39",
+    "stock": 136,
+    "rating": 3.1,
+    "reviews": [
+      {
+        "name": "Aditya",
+        "comment": "Works just as described.",
+        "rating": 4.7
+      },
+      {
+        "name": "Rohit",
+        "comment": "Fantastic... if you're lowering your standards.",
+        "rating": 1.4
+      },
+      {
+        "name": "Nisha",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.3
+      },
+      {
+        "name": "Kriti",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.5
+      },
+      {
+        "name": "Fatima",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 1.7
+      },
+      {
+        "name": "Leela",
+        "comment": "Ah yes, another masterpiece of mediocrity.",
+        "rating": 1.3
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Works just as described.",
+        "rating": 2.2
+      },
+      {
+        "name": "Ronak",
+        "comment": "Too small and flimsy.",
+        "rating": 2.7
+      },
+      {
+        "name": "Harshit",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.3
+      },
+      {
+        "name": "Trisha",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.9
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "description": "Description for product 40. A practical item for everyday use.",
+    "price": 4.0,
+    "category": "Decor",
+    "image": "https://via.placeholder.com/300?text=Product+40",
+    "stock": 28,
+    "rating": 2.6,
+    "reviews": [
+      {
+        "name": "Milan",
+        "comment": "Came with missing parts.",
+        "rating": 2.5
+      },
+      {
+        "name": "Sana",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.3
+      },
+      {
+        "name": "Saurav",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 3.2
+      },
+      {
+        "name": "Harshit",
+        "comment": "Absolutely loved it!",
+        "rating": 2.7
+      },
+      {
+        "name": "Kavya",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 2.8
+      },
+      {
+        "name": "Ronak",
+        "comment": "So cute and functional!",
+        "rating": 5.0
+      },
+      {
+        "name": "Kavya",
+        "comment": "Very disappointed.",
+        "rating": 2.1
+      },
+      {
+        "name": "Ravi",
+        "comment": "Very disappointed.",
+        "rating": 1.9
+      },
+      {
+        "name": "Aditi",
+        "comment": "My favorite purchase this month!",
+        "rating": 5.0
+      },
+      {
+        "name": "Naresh",
+        "comment": "I want my money back.",
+        "rating": 2.1
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "description": "Description for product 41. A practical item for everyday use.",
+    "price": 4.75,
+    "category": "Accessories",
+    "image": "https://via.placeholder.com/300?text=Product+41",
+    "stock": 20,
+    "rating": 3.2,
+    "reviews": [
+      {
+        "name": "Sana",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.9
+      },
+      {
+        "name": "Kavya",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.9
+      },
+      {
+        "name": "Aditya",
+        "comment": "Works just as described.",
+        "rating": 4.0
+      },
+      {
+        "name": "Leela",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.1
+      },
+      {
+        "name": "Manav",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.7
+      },
+      {
+        "name": "Imran",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.2
+      },
+      {
+        "name": "Sneha",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.1
+      },
+      {
+        "name": "Manav",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.1
+      },
+      {
+        "name": "Kavya",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.2
+      },
+      {
+        "name": "Harshit",
+        "comment": "Broke on first use.",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "description": "Description for product 42. A practical item for everyday use.",
+    "price": 5.5,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+42",
+    "stock": 39,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "name": "Kriti",
+        "comment": "Broke on first use.",
+        "rating": 1.2
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Love how it broke just by looking at it.",
+        "rating": 1.6
+      },
+      {
+        "name": "Leela",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.6
+      },
+      {
+        "name": "Ravi",
+        "comment": "Very disappointed.",
+        "rating": 3.1
+      },
+      {
+        "name": "Sana",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.4
+      },
+      {
+        "name": "Imran",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.1
+      },
+      {
+        "name": "Aditya",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.9
+      },
+      {
+        "name": "Milan",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.3
+      },
+      {
+        "name": "Nisha",
+        "comment": "Great quality and fast delivery.",
+        "rating": 2.9
+      },
+      {
+        "name": "Trisha",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.3
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "description": "Description for product 43. A practical item for everyday use.",
+    "price": 6.25,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+43",
+    "stock": 63,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "name": "Ravi",
+        "comment": "My favorite purchase this month!",
+        "rating": 3.6
+      },
+      {
+        "name": "Daisy",
+        "comment": "Would buy again.",
+        "rating": 3.6
+      },
+      {
+        "name": "Rohit",
+        "comment": "Recommended for enemies only.",
+        "rating": 1.0
+      },
+      {
+        "name": "Saurav",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.4
+      },
+      {
+        "name": "Trisha",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 3.9
+      },
+      {
+        "name": "Sana",
+        "comment": "Works just as described.",
+        "rating": 3.2
+      },
+      {
+        "name": "Imran",
+        "comment": "I want my money back.",
+        "rating": 1.3
+      },
+      {
+        "name": "Rohit",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.7
+      },
+      {
+        "name": "Daisy",
+        "comment": "Absolutely loved it!",
+        "rating": 4.5
+      },
+      {
+        "name": "Sneha",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "description": "Description for product 44. A practical item for everyday use.",
+    "price": 7.0,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+44",
+    "stock": 100,
+    "rating": 2.6,
+    "reviews": [
+      {
+        "name": "Milan",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.4
+      },
+      {
+        "name": "Trisha",
+        "comment": "Came with missing parts.",
+        "rating": 1.1
+      },
+      {
+        "name": "Rohit",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.5
+      },
+      {
+        "name": "Saurav",
+        "comment": "Would buy again.",
+        "rating": 3.7
+      },
+      {
+        "name": "Fatima",
+        "comment": "Broke on first use.",
+        "rating": 1.5
+      },
+      {
+        "name": "Fatima",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.9
+      },
+      {
+        "name": "Rohit",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.5
+      },
+      {
+        "name": "Saurav",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.6
+      },
+      {
+        "name": "Ronak",
+        "comment": "Would buy again.",
+        "rating": 4.5
+      },
+      {
+        "name": "Naresh",
+        "comment": "So cute and functional!",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "description": "Description for product 45. A practical item for everyday use.",
+    "price": 7.75,
+    "category": "Fashion",
+    "image": "https://via.placeholder.com/300?text=Product+45",
+    "stock": 52,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "name": "Sana",
+        "comment": "Would buy again.",
+        "rating": 3.8
+      },
+      {
+        "name": "Naresh",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 3.6
+      },
+      {
+        "name": "Kavya",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.6
+      },
+      {
+        "name": "Nisha",
+        "comment": "Too small and flimsy.",
+        "rating": 3.2
+      },
+      {
+        "name": "Manav",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.9
+      },
+      {
+        "name": "Daisy",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.5
+      },
+      {
+        "name": "Kavya",
+        "comment": "So cute and functional!",
+        "rating": 4.4
+      },
+      {
+        "name": "Trisha",
+        "comment": "My favorite purchase this month!",
+        "rating": 2.8
+      },
+      {
+        "name": "Sana",
+        "comment": "Great quality and fast delivery.",
+        "rating": 3.5
+      },
+      {
+        "name": "Fatima",
+        "comment": "Fantastic... if you're lowering your standards.",
+        "rating": 1.3
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "description": "Description for product 46. A practical item for everyday use.",
+    "price": 8.5,
+    "category": "Home",
+    "image": "https://via.placeholder.com/300?text=Product+46",
+    "stock": 149,
+    "rating": 2.7,
+    "reviews": [
+      {
+        "name": "Harshit",
+        "comment": "Too small and flimsy.",
+        "rating": 2.7
+      },
+      {
+        "name": "Kriti",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.6
+      },
+      {
+        "name": "Naresh",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.0
+      },
+      {
+        "name": "Kavya",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.9
+      },
+      {
+        "name": "Ravi",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.4
+      },
+      {
+        "name": "Ravi",
+        "comment": "Perfect for what I needed.",
+        "rating": 3.8
+      },
+      {
+        "name": "Sana",
+        "comment": "Exceeded my expectations.",
+        "rating": 3.8
+      },
+      {
+        "name": "Kavya",
+        "comment": "Very disappointed.",
+        "rating": 1.1
+      },
+      {
+        "name": "Daisy",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.4
+      },
+      {
+        "name": "Daisy",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "description": "Description for product 47. A practical item for everyday use.",
+    "price": 9.25,
+    "category": "Crafts",
+    "image": "https://via.placeholder.com/300?text=Product+47",
+    "stock": 148,
+    "rating": 1.5,
+    "reviews": [
+      {
+        "name": "Manav",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.6
+      },
+      {
+        "name": "Trisha",
+        "comment": "I want my money back.",
+        "rating": 3.2
+      },
+      {
+        "name": "Aditi",
+        "comment": "Would buy again.",
+        "rating": 4.1
+      },
+      {
+        "name": "Sana",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.7
+      },
+      {
+        "name": "Harshit",
+        "comment": "Too small and flimsy.",
+        "rating": 1.9
+      },
+      {
+        "name": "Leela",
+        "comment": "So cute and functional!",
+        "rating": 2.2
+      },
+      {
+        "name": "Trisha",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.4
+      },
+      {
+        "name": "Leela",
+        "comment": "So cute and functional!",
+        "rating": 2.3
+      },
+      {
+        "name": "Fatima",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 2.5
+      },
+      {
+        "name": "Nisha",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "description": "Description for product 48. A practical item for everyday use.",
+    "price": 10.0,
+    "category": "Kitchen",
+    "image": "https://via.placeholder.com/300?text=Product+48",
+    "stock": 81,
+    "rating": 2.7,
+    "reviews": [
+      {
+        "name": "Trisha",
+        "comment": "Perfect for what I needed.",
+        "rating": 4.6
+      },
+      {
+        "name": "Bhavna",
+        "comment": "Exactly what I didn\u2019t need, thanks!",
+        "rating": 1.9
+      },
+      {
+        "name": "Sneha",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.0
+      },
+      {
+        "name": "Fatima",
+        "comment": "Looks nothing like the picture.",
+        "rating": 1.9
+      },
+      {
+        "name": "Sana",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.6
+      },
+      {
+        "name": "Leela",
+        "comment": "Looks nothing like the picture.",
+        "rating": 2.0
+      },
+      {
+        "name": "Manav",
+        "comment": "Smells amazing and lasts long.",
+        "rating": 4.0
+      },
+      {
+        "name": "Daisy",
+        "comment": "Very disappointed.",
+        "rating": 3.0
+      },
+      {
+        "name": "Ronak",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 4.5
+      },
+      {
+        "name": "Sana",
+        "comment": "Came with missing parts.",
+        "rating": 2.5
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "description": "Description for product 49. A practical item for everyday use.",
+    "price": 10.75,
+    "category": "Personal Care",
+    "image": "https://via.placeholder.com/300?text=Product+49",
+    "stock": 98,
+    "rating": 4.0,
+    "reviews": [
+      {
+        "name": "Kriti",
+        "comment": "Works just as described.",
+        "rating": 4.6
+      },
+      {
+        "name": "Sana",
+        "comment": "Too small and flimsy.",
+        "rating": 2.0
+      },
+      {
+        "name": "Aditi",
+        "comment": "Not worth it. Avoid.",
+        "rating": 2.5
+      },
+      {
+        "name": "Imran",
+        "comment": "My favorite purchase this month!",
+        "rating": 4.0
+      },
+      {
+        "name": "Kavya",
+        "comment": "Exceeded my expectations.",
+        "rating": 2.8
+      },
+      {
+        "name": "Aditi",
+        "comment": "Too small and flimsy.",
+        "rating": 1.1
+      },
+      {
+        "name": "Kavya",
+        "comment": "Too small and flimsy.",
+        "rating": 2.4
+      },
+      {
+        "name": "Leela",
+        "comment": "Terrible quality, not worth the price.",
+        "rating": 2.9
+      },
+      {
+        "name": "Leela",
+        "comment": "Exceeded my expectations.",
+        "rating": 4.5
+      },
+      {
+        "name": "Manav",
+        "comment": "Broke on first use.",
+        "rating": 1.9
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "description": "Description for product 50. A practical item for everyday use.",
+    "price": 4.0,
+    "category": "Personal Care",
+    "image": "https://via.placeholder.com/300?text=Product+50",
+    "stock": 113,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "name": "Imran",
+        "comment": "So cute and functional!",
+        "rating": 3.2
+      },
+      {
+        "name": "Sneha",
+        "comment": "Came with missing parts.",
+        "rating": 2.7
+      },
+      {
+        "name": "Trisha",
+        "comment": "Great quality and fast delivery.",
+        "rating": 4.6
+      },
+      {
+        "name": "Aditi",
+        "comment": "Perfect for what I needed.",
+        "rating": 2.0
+      },
+      {
+        "name": "Priya",
+        "comment": "Felt cheap and poorly made.",
+        "rating": 2.7
+      },
+      {
+        "name": "Trisha",
+        "comment": "Works just as described.",
+        "rating": 4.7
+      },
+      {
+        "name": "Kavya",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 2.0
+      },
+      {
+        "name": "Aditi",
+        "comment": "Absolutely loved it!",
+        "rating": 3.9
+      },
+      {
+        "name": "Nisha",
+        "comment": "Beautifully crafted and eco-friendly.",
+        "rating": 5.0
+      },
+      {
+        "name": "Saurav",
+        "comment": "Works just as described.",
+        "rating": 3.4
+      }
+    ]
+  }
+]
+,
+
+
+
+[
+  {
+    "id": 1,
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 8,
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": 9,
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 10,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 11,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 12,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 15,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 16,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 17,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 18,
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 9.85,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 19,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  },
+  {
+    "id": 20,
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  }
+]]
