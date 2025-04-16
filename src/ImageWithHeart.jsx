@@ -1,7 +1,7 @@
 import React from 'react'
 import { useOutletContext } from 'react-router';
 
-export default function ImageWithHeart({image,state,selectedSize}) {
+export default function ImageWithHeart({state,selectedSize}) {
     const { setChangedInfo, userInfo }=useOutletContext();  
     let added
     let size=userInfo.wishList[state.id]?.size //if product hasn't been added it will return undefined
@@ -17,9 +17,10 @@ export default function ImageWithHeart({image,state,selectedSize}) {
       p.wishList[state.id]={...state,size:{}}
       p.wishList[state.id]['size'][selectedSize]=1
     }
-    else if(!(p.wishList[state.id].size[selectedSize])) p.wishList[state.id]['size'][selectedSize]=1
+    else if(!(p.wishList[state.id].size[selectedSize])) 
+     { p.wishList[state.id]['size'][selectedSize]=1}
    
-    return ({...p})
+    return {...p}
   })
   else setChangedInfo(p=>{delete p.wishList[state.id].size[selectedSize]; return {...p} })
   }

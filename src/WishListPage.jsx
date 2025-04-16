@@ -1,6 +1,5 @@
 import React from 'react'
 import { useOutletContext } from 'react-router';
-import CartItems from './CartItems';
 import WishListItems from './WishListItems';
 import NotPresent from './NotPresent';
 

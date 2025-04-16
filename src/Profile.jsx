@@ -11,9 +11,6 @@ export default function Profile() {
   return (
     <section className='profile'>
     {display!='hidden'?  <SelectAvatar userInfo={userInfo} setDisplay={setDisplay} setChangedInfo={setChangedInfo} />:""}
-      {/* <video autoPlay={true} muted={true} loop className=' -z-50 '  >
-        <source src='https://videocdn.cdnpk.net/videos/73765ac9-8158-5ea0-ac06-f5e55650d3f2/horizontal/previews/watermarked/large.mp4' />
-      </video> */}
       <div className="file-container ">
         <h1 className='text-5xl font-semibold text-center mb-4 ' >Profile</h1>
         <div className="img-container md:w-[200px] w-[148px] ">
@@ -39,7 +36,6 @@ export default function Profile() {
         <h1 className='hover-Underline'>Add Links 🔗</h1>
         <label name='link' htmlFor="link">#Link  </label>
         <select id='link' onChange={(e) => {
-          // console.log(e);
           let option = e.target.value
           setLinkType({ option: linkTypeColor[option] })
         }} name="link" className=''>

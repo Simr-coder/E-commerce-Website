@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Link, useNavigate } from 'react-router';
+import { useNavigate } from 'react-router';
 import data from './assets/productsData.json'
 
 export default function SearchField() {
@@ -17,7 +17,6 @@ return p
 <img className='w-[32px] h-[32px] cursor-pointer ' 
 onClick={e=>{if(e.key=='Enter'&& /\b[ ]*\b/.test(value) )  navigate('/product',  { state: searchedProducts })}}
   src="https://th.bing.com/th/id/OIP.9-l9QQfhMfbvYNTRGgp30gHaHa?pid=ImgDet&w=184&h=184&c=7&dpr=1.3" alt="" />
-<Link to={'/product'} state={searchedProducts} >Link</Link>
     </div>
   )
 }

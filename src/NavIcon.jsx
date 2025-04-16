@@ -3,9 +3,9 @@ import { Link } from 'react-router'
 
 export default function NavIcon({ img, name, to }) {
   return (
-    <li>
+    <li >
       <Link to={to} >
-        <img src={img} alt="" className="icon" />
+        <img className='icon ' src={img} alt=""  />
         <p>{name}</p>
       </Link>
     </li>

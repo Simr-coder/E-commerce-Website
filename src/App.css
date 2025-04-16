@@ -58,7 +58,7 @@ select,option{
  background-color: rgba(255, 255, 255, 0.356);
   box-shadow: 0 0 12px 1px rgb(112, 114, 115);
 }
-/* .profile video{
+/* .profile {
   object-fit: fill;
   top: 0;
   width: 100%;
@@ -110,7 +110,7 @@ font-size: 20px;
 .profile{
  padding-top: 92px;
  background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple);
-  
+  min-height: 100vh;
   font-family: Underdog; 
 }
 .button{
@@ -221,12 +221,9 @@ color: #ff0066;
 }
 
 .sizes{
-  /* display: grid;
-  grid-template-columns: repeat(3, minmax(88px,1fr));
-  gap: 8px; */
+  display: flex;
   text-align: center;
  gap: 12px;
-display: flex;
 flex-wrap: wrap;
 }
 .sizes p{
@@ -275,12 +272,36 @@ to{
 }
 }
 
-@media(max-width:800px){
+@media(max-width:767px){
   .file-container{
     width: 90%;
     padding: 8px;
   }
- 
+  .edit-button{
+    bottom:0 ;
+    right: 0;
+  }
+  header ul{
+    position: fixed;
+    top: 8px;
+    right: 8px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 8px 1px gray;
+  }
+  .navigation:hover img{
+    display: block;
+    background: #000;
+    transform: scale(10);
+  }
+ .navigation  li a{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 4px;
+  width: 120px;
+  align-items: center;
+  padding-bottom: 16px;
+ }
   .user-detail>div{
     font-size: unset;
   }
